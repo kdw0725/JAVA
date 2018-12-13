@@ -27,12 +27,18 @@ public class Main {
 		*/
 		
 		//4¹ø
+		System.out.println(8);
+		System.out.println("kdw0725");
+		
+		
+		//5¹ø
+		/*
 		System.out.println("|\\_/|");
 		System.out.println("|q p|   /}");
 		System.out.println("( 0 )\"\"\"\\");
 		System.out.println("|\"^\"`    |");
 		System.out.println("||_/=\\\\__|");
-		
+		*/
 	}
 
 }
