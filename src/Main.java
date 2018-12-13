@@ -17,11 +17,22 @@ public class Main {
 		System.out.println(a+b);
 		*/
 		
+		
 		//3¹ø
+		/*
 		Scanner scanner = new Scanner(System.in);
 		int a = scanner.nextInt();
 		int b = scanner.nextInt();
 		System.out.println(a-b);
+		*/
+		
+		//4¹ø
+		System.out.println("|\\_/|");
+		System.out.println("|q p|   /}");
+		System.out.println("( 0 )\"\"\"\\");
+		System.out.println("|\"^\"`    |");
+		System.out.println("||_/=\\\\__|");
+		
 	}
 
 }
