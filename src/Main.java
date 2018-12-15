@@ -27,9 +27,10 @@ public class Main {
 		*/
 		
 		//4번
+		/*
 		System.out.println(8);
 		System.out.println("kdw0725");
-		
+		*/
 		
 		//5번
 		/*
@@ -39,6 +40,11 @@ public class Main {
 		System.out.println("|\"^\"`    |");
 		System.out.println("||_/=\\\\__|");
 		*/
+		
+		//6번
+		for (int i=0;i<2;i++) {
+			System.out.println("강한친구 대한육군");
+		}
 	}
 
 }
