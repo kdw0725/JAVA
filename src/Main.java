@@ -17,7 +17,6 @@ public class Main {
 		System.out.println(a+b);
 		*/
 		
-		
 		//3번
 		/*
 		Scanner scanner = new Scanner(System.in);
@@ -42,9 +41,20 @@ public class Main {
 		*/
 		
 		//6번
+		/*
 		for (int i=0;i<2;i++) {
 			System.out.println("강한친구 대한육군");
 		}
+		*/
+		
+		//7번
+		Scanner scanner = new Scanner(System.in);
+		
+		while(scanner.hasNextLine()) {
+			String input = scanner.nextLine();
+			System.out.println(input);
+		}
+		scanner.close();
 	}
 
 }
